@@ -4,8 +4,8 @@ Hey, I'm Aleksy, a Full Stack Developer based out of Montreal, welcome to the re
 
 ## Table of Contents
 - [About Me](#about-me)
-- [Skills](#skills)
 - [Projects](#projects)
+- [Skills](#skills)
 - [Contact](#contact)
 
 ## About Me
